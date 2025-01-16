@@ -1,4 +1,12 @@
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
+# #inlud<studio.h>
+  main()  
+ printf("hello, world");
+
+
+
+
+
+
+
+retorn(0);
+
